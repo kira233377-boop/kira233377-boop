@@ -1,4 +1,4 @@
-# Fangfe(Kira) Zhang
+# Fangfei(Kira) Zhang
 
 Quantitative finance, statistics, and optimization
 
