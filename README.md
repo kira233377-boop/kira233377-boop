@@ -1,6 +1,6 @@
-# kirzhang
+# Kira Zhang
 
-**Fangfei Zhang** · Quantitative finance, statistics, and optimization
+Quantitative finance, statistics, and optimization
 
 I am an M.S. student in **Computational Finance and Risk Management at the University of Washington**, with a B.Sc. in Applied Statistics and a minor in Economics from Western University.
 
